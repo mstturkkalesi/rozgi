@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_mcu&regule|SchDesignator=U_mcu&regule|FileName=mcu&regule.SchDoc|SymbolType=Normal|RawFileName=mcu&regule.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_modul|SchDesignator=U_modul|FileName=modul.SchDoc|SymbolType=Normal|RawFileName=modul.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_motor_surucu|SchDesignator=U_motor_surucu|FileName=motor_surucu.SchDoc|SymbolType=Normal|RawFileName=motor_surucu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

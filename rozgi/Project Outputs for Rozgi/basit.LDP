@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\mst_t\Desktop\ROZGÝ_IN_LOWE\PCB\Rozgi\basit.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=basit-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=basit-slotholes.txt|DrillLayers=gtl,gbl
